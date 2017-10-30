@@ -1,2 +1,1 @@
-# FCCURLshortener
-URL Shortener Microservice
+Project for freeCodeCamp backend: URL Shortener Microservice.
